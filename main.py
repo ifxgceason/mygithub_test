@@ -1,2 +1,2 @@
 print("main.py")
-print("pulish")
+print("pulish") # modify on lab-pc
